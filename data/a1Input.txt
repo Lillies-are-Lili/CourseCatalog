@@ -1,0 +1,36 @@
+c
+CS
+Computer Science
+3423
+Systems Programming
+TH
+8/12/23
+12/9/23
+4
+60
+r
+cs 3423
+r
+cs 3421
+r
+XXX 1234
+u
+cs
+
+3421
+Systems Laboratory
+
+
+
+
+1
+r
+cs 3421
+d
+cs 3421
+r
+cs 3421
+e
+cs 3423
+40
+t
